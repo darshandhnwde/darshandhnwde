@@ -1,10 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Darshan Dhanwade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Passionate about AI and ML from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshankd&label=Profile%20views&color=0e75b6&style=flat" alt="darshankd" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML and Frontend Development**
 
 - 📫 How to reach me **darshankd.connect@gmail.com**
 
