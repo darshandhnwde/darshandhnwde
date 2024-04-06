@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshandhnwde&label=Profile%20views&color=0e75b6&style=flat" alt="darshandhnwde" /> </p>
 
-- 🌱 I’m currently learning **Frontend Development and ML**
+- **🎓 Currently learning and exploring the depths of Artificial Intelligence and Machine Learning | Eager to contribute to cutting-edge projects and collaborate with like-minded individuals 💡**
 
 - 📫 How to reach me **darshankd.connect@gmail.com**
 
